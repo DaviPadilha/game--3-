@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "game2d_adc6a8ab"
+        },
+        {
+            "type": "node",
+            "name": "java${defaultBuildTask}",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
